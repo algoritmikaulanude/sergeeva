@@ -176,6 +176,7 @@ footer img{
 .rew{
     display: flex;
     background-image: linear-gradient(white, rgb(78, 211, 245));
+    justify-content:center;
 }
 .pppp{
     padding-top: 50px;
